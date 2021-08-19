@@ -7,7 +7,7 @@ You can clone this repository and run the folders on your pc. To do this you can
 1. Clone the repository by `git clone` https://github.com/sheharyarIshfaq/react-course.git command in your terminal
 2. Navigate into the folder you want to open
 3. Open the folder in your `code editor`
-4. Open the terminal and type `**npm install**` command to install node modules
+4. Open the terminal and type **`npm install`** command to install node modules
 5. >For Some Sections After install node modules, type `npm install react-redux @reduxjs/toolkit `, this will install the react-redux and redux/toolkit which are required in certain sections 
 6. Run `npm start` command and it will start the development server and the web page will open up in your browser
 7. You are ready to explore, and make changes to files.
