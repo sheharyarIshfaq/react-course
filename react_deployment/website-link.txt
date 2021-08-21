@@ -1,0 +1,2 @@
+This React Web Application is deployed/hosted on firebase
+Link : https://react-great-quotes-d3c5c.web.app/quotes
